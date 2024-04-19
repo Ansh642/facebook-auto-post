@@ -5,7 +5,7 @@
 - Clone this repo to your local machine using.
 
 ```
-git clone https://github.com/VuDucManh/facebook-auto-post.git
+https://github.com/Ansh642/facebook-auto-post.git
 ```
 
 # Setting up project
@@ -32,5 +32,3 @@ pip install -r requirements.txt
 python run.py
 ```
 
-# Demo
-- [Youtube](https://youtu.be/7JUm7YfJNEI)
